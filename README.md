@@ -1,1 +1,1 @@
-My shell readme
+Task 0. Where am I?
